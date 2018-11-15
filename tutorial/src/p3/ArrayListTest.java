@@ -31,6 +31,9 @@ public class ArrayListTest {
 			System.out.println(listOfInts.get(i));
 		}
 		
+		System.out.println(listOfInts.indexOf(98));
+		System.out.println(listOfInts.indexOf(99));
+		
 	}
 
 }
