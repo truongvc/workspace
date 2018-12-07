@@ -1,0 +1,13 @@
+Name: Jane doe Power: Super speed
+Name: bill Power: strong
+Name: Jane doe Power: extreme smacking
+Name: bill Power: extreme smacking
+Name: Jane doe Power: extreme smacking
+Name: bill Power: extreme smacking
+
+h1 health: 80
+h1 health: 60
+h1 health: 40
+h1 health: 20
+h1 health: 0
+h1 health: -20
